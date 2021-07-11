@@ -38,6 +38,8 @@ in addition to the standard development environment.
   qjackctl (and dependencies)
   glib2
   cmake
+  python3-devel
+  glib2-devel
 
 2.2 Building the software
 --------------------------
